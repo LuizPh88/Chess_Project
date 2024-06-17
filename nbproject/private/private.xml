@@ -4,16 +4,20 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/lphse/OneDrive/Documents/NetBeansProjects/Chess_Project/src/boardgame/Board.java</file>
+            <file>file:/C:/Users/lphse/OneDrive/Documents/NetBeansProjects/Chess_Project/src/chess/pieces/Pawn.java</file>
+            <file>file:/C:/Users/lphse/OneDrive/Documents/NetBeansProjects/Chess_Project/src/chess/pieces/Queen.java</file>
             <file>file:/C:/Users/lphse/OneDrive/Documents/NetBeansProjects/Chess_Project/src/application/UI.java</file>
             <file>file:/C:/Users/lphse/OneDrive/Documents/NetBeansProjects/Chess_Project/src/chess/ChessPosition.java</file>
             <file>file:/C:/Users/lphse/OneDrive/Documents/NetBeansProjects/Chess_Project/src/boardgame/BoardExceptions.java</file>
             <file>file:/C:/Users/lphse/OneDrive/Documents/NetBeansProjects/Chess_Project/src/chess/ChessPiece.java</file>
+            <file>file:/C:/Users/lphse/OneDrive/Documents/NetBeansProjects/Chess_Project/src/chess/pieces/Knight.java</file>
             <file>file:/C:/Users/lphse/OneDrive/Documents/NetBeansProjects/Chess_Project/src/application/Program.java</file>
             <file>file:/C:/Users/lphse/OneDrive/Documents/NetBeansProjects/Chess_Project/src/boardgame/Piece.java</file>
             <file>file:/C:/Users/lphse/OneDrive/Documents/NetBeansProjects/Chess_Project/src/chess/Color.java</file>
             <file>file:/C:/Users/lphse/OneDrive/Documents/NetBeansProjects/Chess_Project/src/chess/ChessMatch.java</file>
             <file>file:/C:/Users/lphse/OneDrive/Documents/NetBeansProjects/Chess_Project/src/boardgame/Position.java</file>
             <file>file:/C:/Users/lphse/OneDrive/Documents/NetBeansProjects/Chess_Project/src/chess/pieces/King.java</file>
+            <file>file:/C:/Users/lphse/OneDrive/Documents/NetBeansProjects/Chess_Project/src/chess/pieces/Bishop.java</file>
             <file>file:/C:/Users/lphse/OneDrive/Documents/NetBeansProjects/Chess_Project/src/chess/pieces/Rook.java</file>
             <file>file:/C:/Users/lphse/OneDrive/Documents/NetBeansProjects/Chess_Project/src/chess/ChessException.java</file>
         </group>
